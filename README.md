@@ -35,4 +35,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <br>
 <br>
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh1428rao&show_icons=true)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh1428rao&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh1428rao&hide=contribs,prs)
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh1428rao&show_icons=true&theme=gruvbox)
