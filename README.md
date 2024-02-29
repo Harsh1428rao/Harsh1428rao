@@ -35,5 +35,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <br>
 <br>
+<br>
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh1428rao&show_icons=true&theme=gruvbox)
