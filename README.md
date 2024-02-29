@@ -1,4 +1,9 @@
 ### Hi there 👋
+🔭 I’m currently working on to save planet 
+- 🌱 I’m currently learning JAVA , Nodejs
+- 👯 I’m looking to collaborate on project for Web development
+- 💬 Ask me about anything..
+- 📫 How to reach me: gmail-hrao1428@gmail.com
 
 <!--
 **Harsh1428rao/Harsh1428rao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
