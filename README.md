@@ -1,4 +1,4 @@
-**Digital Craftsman (Developer/Filmmaker/Creator)**
+**Digital Craftsman (Developer)**
 
 ### Hi there 👋
 🔭 I’m currently working on to Develope Web Projects. 
