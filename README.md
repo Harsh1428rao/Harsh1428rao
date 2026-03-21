@@ -1,11 +1,27 @@
-**<h2>Digital Craftsman (Developer)</h2>**
+👋 Hi, I'm Harsh Rao
 
-### Hi there 👋
-🔭 I’m currently working on to Develope Web Projects. 
-- 🌱 I’m currently learning JAVA , Nodejs
-- 👯 I’m looking to collaborate on project for Web development
-- 💬 Ask me about anything..
-- 📫 How to reach me: gmail-hrao1428@gmail.com
+🎓 B.Tech CSE @ Lovely Professional University
+💻 Full-Stack Developer (MERN) | Backend | C/C++
+⚙️ Passionate about building scalable applications & system-level solutions
+
+🚀 About Me
+🔧 Experienced in developing full-stack web applications using MERN stack
+⚡ Strong in backend development, REST APIs, and database design
+🧠 Interested in system programming, performance optimization & cloud
+🛠️ Currently exploring Go, Docker, and scalable system design
+🧰 Tech Stack
+Languages: C/C++, JavaScript, Python, Java
+Frontend: React.js, HTML, CSS, Tailwind
+Backend: Node.js, Express.js, REST APIs
+Database: MongoDB, MySQL, PostgreSQL
+Tools: Git, Docker, Postman, CI/CD
+📌 Projects
+🌾 Kisan Bazaar – Platform connecting farmers & contractors
+📊 CRM System – MERN-based system with Redis & OAuth
+⚙️ Task Manager API (Go) – REST API with Go & net/http
+📫 Connect With Me
+💼 LinkedIn: linkedin.com/in/harsh-hr-rao/
+💻 GitHub: github.com/Harsh1428rao 📫 How to reach me: gmail-hrao1428@gmail.com
 
 <!--
 **Harsh1428rao/Harsh1428rao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
