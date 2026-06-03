@@ -1,84 +1,104 @@
-## 👋 Hi, I'm Harsh Rao  
+# Hi, I'm Harsh Rao 👋
 
-🎓 B.Tech CSE @ Lovely Professional University  
-💻 Full-Stack Developer (MERN) | Backend | C/C++  
-⚙️ Passionate about building scalable applications & system-level solutions  
+**Software Developer · Backend & Full-Stack · B.Tech CSE 2026**
 
----
+I build scalable backend systems, REST APIs, and full-stack web applications. Currently focused on **Go**, **Node.js**, and **system design**. I enjoy solving hard engineering problems and shipping production-quality software.
 
-## 🚀 About Me  
-- 🔧 Experienced in developing full-stack web applications using MERN stack  
-- ⚡ Strong in backend development, REST APIs, and database design  
-- 🧠 Interested in system programming, performance optimization & cloud  
-- 🛠️ Currently exploring Go, Docker, and scalable system design  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-hr-rao/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Harsh1428rao)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hrao1428@gmail.com)
 
 ---
 
-## 🧰 Tech Stack  
+## 🛠 Tech Stack
 
-**Languages:**  
-C/C++, JavaScript, Python, Java  
+**Languages**
 
-**Frontend:**  
-React.js, HTML, CSS, Tailwind  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Backend:**  
-Node.js, Express.js, REST APIs  
+**Backend & APIs**
 
-**Database:**  
-MongoDB, MySQL, PostgreSQL  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
 
-**Tools:**  
-Git, Docker, Postman, CI/CD  
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 📌 Projects  
-- 🌾 Kisan Bazaar – Platform connecting farmers & contractors  
-- 📊 CRM System – MERN-based system with Redis & OAuth  
-- ⚙️ Task Manager API (Go) – REST API using net/http  
+## 🚀 Featured Projects
+
+### [webhookd](https://github.com/Harsh1428rao/webhookd) — Webhook Delivery System `Go`
+> The backend engine behind reliable event delivery — like what Stripe and GitHub use internally.
+- Concurrent delivery worker using **goroutines** with **exponential backoff retries** (1s → 2s → 4s → 8s → 16s)
+- **HMAC-SHA256** payload signing, **JWT auth**, **PostgreSQL** audit trail
+- 10 REST API endpoints · Docker · GitHub Actions CI/CD
 
 ---
 
-## 📫 Connect With Me  
-- 💼 LinkedIn: https://linkedin.com/in/harsh-hr-rao/  
-- 💻 GitHub: https://github.com/Harsh1428rao  
-- 📧 Email: hrao1428@gmail.com  
-<!--
-**Harsh1428rao/Harsh1428rao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [AI Debugging Assistant](https://ai-debugging-assistant-csse.vercel.app/) — Log Analysis Agent `Node.js · React`
+> Submit application logs, get AI-powered root cause analysis and fix suggestions instantly.
+- **Groq LLM API** integration with structured prompt engineering
+- Full-stack: Express.js backend · React frontend · Deployed on Vercel + Render
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [CRM System](https://crm-tjh1.vercel.app/login) — Customer Relationship Management `MERN`
+> Full-stack CRM with campaign analytics, order management, and an LLM-powered recommendation engine.
+- **OpenAI API** integration · PostgreSQL + MySQL · 10+ tested REST endpoints
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<br>
-<br>
-<br>
+---
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh1428rao&show_icons=true&theme=gruvbox)
+## 📊 Coding Practice
 
-<br>
-<br>
+| Platform | Problems Solved | Profile |
+|----------|----------------|---------|
+| 🟡 **LeetCode** | **225** | [View Profile](https://leetcode.com/Harsh1428rao) |
+| 🟢 **GeeksforGeeks** | **61** | [View Profile](https://auth.geeksforgeeks.org/user/Harsh1428rao) |
+| 🔵 **NeetCode** | **50** | [View Profile](https://neetcode.io/profile/Harsh1428rao) |
+| | **336 total** | |
 
-<details>
-<summary><h2> Harsh's Coding Journey</h2></summary>
-I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world code linux, theory. And all the while, teaching myself  development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java and C++. A desire that landed me a full-stack Developer engineering job upon graduation.I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that dream that I'll be ready to tackle in 2024 due to the measure I'm putting in place now until the end of 2023. Don't wait up, because I'm coming.
+> Focused on Arrays, Strings, Trees, Graphs, and Dynamic Programming.
+
+---
+
+## 📈 GitHub Stats
+
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh1428rao&show_icons=true&theme=default&hide_border=true&title_color=1955A0&icon_color=1955A0&text_color=333333)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh1428rao&layout=compact&theme=default&hide_border=true&title_color=1955A0&text_color=333333)
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **Global Rank 2527** — TCS CodeVita Season 11 (2024)
+- 🎖 **Top 5% Performer** — Adobe GenSolve Hackathon (2024)
+- 👨‍💼 **Team Lead** — Smart India Hackathon (2024)
+- 🎓 **Cloud Computing** certified — NPTEL, IIT Kharagpur
+
+---
+
+*Currently open to full-time SDE / backend engineering roles — 2026 batch.*
