@@ -87,8 +87,9 @@ I build scalable backend systems, REST APIs, and full-stack web applications. Cu
 
 ## 📈 GitHub Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh1428rao&show_icons=true&theme=default&hide_border=true&title_color=1955A0&icon_color=1955A0&text_color=333333)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh1428rao&layout=compact&theme=default&hide_border=true&title_color=1955A0&text_color=333333)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh1428rao&show_icons=true&theme=default&hide_border=true&title_color=1955A0&icon_color=1955A0&text_color=333333)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh1428rao&layout=compact&theme=default&hide_border=true&title_color=1955A0&text_color=333333)
 
 ---
 
